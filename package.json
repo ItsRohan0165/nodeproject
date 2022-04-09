@@ -37,7 +37,7 @@
     "libsodium": "^0.7.3",
     "lowdb": "^1.0.0",
     "mathjs": "^5.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.3.2",
     "node-gyp": "^3.8.0",
     "node-opus": "^0.3.1",
